@@ -28,3 +28,5 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+Assets/IBM_DB2_Connection_String.txt
+Assets/IBM_DB2_Connection_String.txt.meta
